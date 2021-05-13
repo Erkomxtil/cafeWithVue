@@ -26,4 +26,8 @@ export default {
 	</div>
 </template>
 
-<style></style>
+<style>
+ul {
+	list-style-type: none;
+}
+</style>

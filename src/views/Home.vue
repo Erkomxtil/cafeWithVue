@@ -42,7 +42,7 @@ export default {
   },
   data() {
     return {
-      restaurantName: "La belle vue",
+      restaurantName: "Delastef Prod",
       shoppingCart: 0,
       simpleMenu: [
         {
@@ -58,7 +58,7 @@ export default {
         {
           name: "Baguette de pain",
           image: {
-            source: "/images/french-baguette.jpeg",
+            source: "/images/french-baguette.jpg",
             alt: "Quatre baguettes de pain"
           },
           inStock: true,
